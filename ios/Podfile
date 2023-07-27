@@ -7,5 +7,5 @@ target 'Runner' do
    use_frameworks!
    use_modular_headers!
   # Pods for Runner
-  pod 'MaterialControls', '~> 1.2.2'
+#   pod 'MaterialControls', '~> 1.2.2'
 end
